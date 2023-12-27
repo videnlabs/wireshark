@@ -1,3 +1,4 @@
+[![Build Windows](https://github.com/videnlabs/wireshark/actions/workflows/windows.yml/badge.svg)](https://github.com/videnlabs/wireshark/actions/workflows/windows.yml)
 Wireshark Fork
 --------------
 This fork represents Viden's verified build of Wireshark. The fork can only be updated by the Technical Director, Labs.
